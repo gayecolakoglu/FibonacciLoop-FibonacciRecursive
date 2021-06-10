@@ -1,8 +1,8 @@
 ## FibonacciLoop-FibonacciRecursive
  
-You will implement a function for finding the nth Fibonacci number using the MIPS assembly language. 
-Following gives the definition of the Fibonacci Sequence. Your code should comply with the coding 
-conventions described in the lectures.
+ I implemented a function for finding the nth Fibonacci number using the MIPS assembly language. 
+ Following gives the definition of the Fibonacci Sequence.
+
 Let F be the Fibonacci function:
 F(0) = 0
 F(1) = 1
